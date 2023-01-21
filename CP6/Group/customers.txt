@@ -1,0 +1,101 @@
+cust_id	first_name	last_name	company_name	address	city	state	zip
+101	James	Butler		6649 N Blue Gum St	New Orleans	LA	70116
+102	Josephine	Darakjy	Chanay, Jeffrey A Esq	4 B Blue Ridge Blvd	Brighton	MI	48116
+103	Art	Venere		8 W Cerritos Ave #54	Bridgeport	NJ	08014
+104	Lenna	Paprocki	Feltz Printing	639 Main St	Anchorage	AK	99501
+105	Donette	Foller	Printing Dimensions	34 Center St	Hamilton	OH	45011
+106	Simona	Morasca	Chapman, Ross E Esq	3 Mcauley Dr	Ashland	OH	44805
+107	Mitsue	Tollner	Morlong Associates	7 Eads St	Chicago	IL	60632
+108	Leota	Dilliard	Commercial Press	7 W Jackson Blvd	San Jose	CA	95111
+109	Sage	Wieser	Truhlar And Truhlar Attys	5 Boston Ave #88	Sioux Falls	SD	57105
+110	Kris	Marrier		228 Runamuck Pl #2808	Baltimore	MD	21224
+111	Minna	Amigon	Dorl, James J Esq	2371 Jerrold Ave	Kulpsville	PA	19443
+112	Abel	Maclead	Rangoni Of Florence	37275 St  Rt 17m M	Middle Island	NY	11953
+113	Kiley	Caldarera	Feiner Bros	25 E 75th St #69	Los Angeles	CA	90034
+114	Graciela	Ruta	Buckley Miller & Wright	98 Connecticut Ave Nw	Chagrin Falls	OH	44023
+115	Cammy	Albares	Rousseaux, Michael Esq	56 E Morehead St	Laredo	TX	78045
+116	Mattie	Poquette	Century Communications	73 State Road 434 E	Phoenix	AZ	85013
+117	Meaghan	Garufi	Bolton, Wilbur Esq	69734 E Carrillo St	Mc Minnville	TN	37110
+118	Gladys	Rim	T M Byxbee Company Pc	322 New Horizon Blvd	Milwaukee	WI	53207
+119	Yuki	Whobrey	Farmers Insurance Group	1 State Route 27	Taylor	MI	48180
+120	Fletcher	Flosi	Post Box Services Plus	394 Manchester Blvd	Rockford	IL	61109
+121	Bette	Nicka	Sport En Art	6 S 33rd St	Aston	PA	19014
+122	Veronika	Inouye	C 4 Network Inc	6 Greenleaf Ave	San Jose	CA	95111
+123	Willard	Kolmetz	Ingalls, Donald R Esq	618 W Yakima Ave	Irving	TX	75062
+124	Maryann	Royster	Franklin, Peter L Esq	74 S Westgate St	Albany	NY	12204
+125	Alisha	Slusarski	Wtlz Power 107 Fm	3273 State St	Middlesex	NJ	08846
+126	Allene	Iturbide	Ledecky, David Esq	1 Central Ave	Stevens Point	WI	54481
+127	Chanel	Caudy	Professional Image Inc	86 Nw 66th St #8673	Shawnee	KS	66218
+128	Ezekiel	Chui	Sider, Donald C Esq	2 Cedar Ave #84	Easton	MD	21601
+129	Willow	Kusko	U Pull It	90991 Thorburn Ave	New York	NY	10011
+130	Bernardo	Figeroa	Clark, Richard Cpa	386 9th Ave N	Conroe	TX	77301
+131	Ammie	Corrio		74874 Atlantic Ave	Columbus	OH	43215
+132	Francine	Vocelka	Cascade Realty Advisors Inc	366 South Dr	Las Cruces	NM	88011
+133	Ernie	Stenseth	Knwz Newsradio	45 E Liberty St	Ridgefield Park	NJ	07660
+134	Albina	Glick	Giampetro, Anthony D	4 Ralph Ct	Dunellen	NJ	08812
+135	Alishia	Sergi	Milford Enterprises Inc	2742 Distribution Way	New York	NY	10025
+136	Solange	Shinko	Mosocco, Ronald A	426 Wolf St	Metairie	LA	70002
+137	Jose	Stockham	Tri State Refueler Co	128 Bransten Rd	New York	NY	10011
+138	Rozella	Ostrosky	Parkway Company	17 Morena Blvd	Camarillo	CA	93012
+139	Valentine	Gillian	Fbs Business Finance	775 W 17th St	San Antonio	TX	78204
+140	Kati	Rulapaugh	Eder Assocs Consltng Engrs Pc	6980 Dorsett Rd	Abilene	KS	67410
+141	Youlanda	Schemmer	Tri M Tool Inc	2881 Lewis Rd	Prineville	OR	97754
+142	Dyan	Oldroyd	International Eyelets Inc	7219 Woodfield Rd	Overland Park	KS	66204
+143	Roxane	Campain	Rapid Trading Intl	1048 Main St	Fairbanks	AK	99708
+144	Lavera	Perin	Abc Enterprises Inc	678 3rd Ave	Miami	FL	33196
+145	Erick	Ferencz	Cindy Turner Associates	20 S Babcock St	Fairbanks	AK	99712
+146	Fatima	Saylors		2 Lighthouse Ave	Hopkins	MN	55343
+147	Jina	Briddick	Grace Pastries Inc	38938 Park Blvd	Boston	MA	02128
+148	Kanisha	Waycott	Schroer, Gene E Esq	5 Tomahawk Dr	Los Angeles	CA	90006
+149	Emerson	Bowley	Knights Inn	762 S Main St	Madison	WI	53711
+150	Blair	Malet	Bollinger Mach Shp & Shipyard	209 Decker Dr	Philadelphia	PA	19132
+151	Brock	Bolognia	Orinda News	4486 W O St #1	New York	NY	10003
+152	Lorrie	Nestle	Ballard Spahr Andrews	39 S 7th St	Tullahoma	TN	37388
+153	Sabra	Uyetake	Lowy Limousine Service	98839 Hawthorne Blvd #6101	Columbia	SC	29201
+154	Marjory	Mastella	Vicon Corporation	71 San Mateo Ave	Wayne	PA	19087
+155	Karl	Klonowski	Rossi, Michael M	76 Brooks St #9	Flemington	NJ	08822
+156	Tonette	Wenner	Northwest Publishing	4545 Courthouse Rd	Westbury	NY	11590
+157	Amber	Monarrez	Branford Wire & Mfg Co	14288 Foster Ave #4121	Jenkintown	PA	19046
+158	Shenika	Seewald	East Coast Marketing	4 Otis St	Van Nuys	CA	91405
+159	Delmy	Ahle	Wye Technologies Inc	65895 S 16th St	Providence	RI	02909
+160	Deeanna	Juhas		14302 Pennsylvania Ave	Huntingdon Valley	PA	19006
+161	Blondell	Pugh	Alpenlite Inc	201 Hawk Ct	Providence	RI	02904
+162	Jamal	Vanausdal	Hubbard, Bruce Esq	53075 Sw 152nd Ter #615	Monroe Township	NJ	08831
+163	Cecily	Hollack	Arthur A Oliver & Son Inc	59 N Groesbeck Hwy	Austin	TX	78731
+164	Carmelina	Lindall	George Jessop Carter Jewelers	2664 Lewis Rd	Littleton	CO	80126
+165	Maurine	Yglesias	Schultz, Thomas C Md	59 Shady Ln #53	Milwaukee	WI	53214
+166	Tawna	Buvens	H H H Enterprises Inc	3305 Nabell Ave #679	New York	NY	10009
+167	Penney	Weight	Hawaiian King Hotel	18 Fountain St	Anchorage	AK	99515
+168	Elly	Morocco	Killion Industries	7 W 32nd St	Erie	PA	16502
+169	Ilene	Eroman	Robinson, William J Esq	2853 S Central Expy	Glen Burnie	MD	21061
+170	Vallie	Mondella	Private Properties	74 W College St	Boise	ID	83707
+171	Kallie	Blackwood	Rowley Schlimgen Inc	701 S Harrison Rd	San Francisco	CA	94104
+172	Johnetta	Abdallah	Forging Specialties	1088 Pinehurst St	Chapel Hill	NC	27514
+173	Bobbye	Rhym	Smits, Patricia Garity	30 W 80th St #1995	San Carlos	CA	94070
+174	Micaela	Rhymes	H Lee Leonard Attorney At Law	20932 Hedley St	Concord	CA	94520
+175	Tamar	Hoogland	A K Construction Co	2737 Pistorio Rd #9230	London	OH	43140
+176	Moon	Parlato	Ambelang, Jessica M Md	74989 Brandon St	Wellsville	NY	14895
+177	Laurel	Reitler	Q A Service	6 Kains Ave	Baltimore	MD	21215
+178	Delisa	Crupi	Wood & Whitacre Contractors	47565 W Grand Ave	Newark	NJ	07105
+179	Viva	Toelkes	Mark Iv Press Ltd	4284 Dorigo Ln	Chicago	IL	60647
+180	Elza	Lipke	Museum Of Science & Industry	6794 Lake Dr E	Newark	NJ	07104
+181	Devorah	Chickering	Garrison Ind	31 Douglas Blvd #950	Clovis	NM	88101
+182	Timothy	Mulqueen	Saronix Nymph Products	44 W 4th St	Staten Island	NY	10309
+183	Arlette	Honeywell	Smc Inc	11279 Loytan St	Jacksonville	FL	32254
+184	Dominque	Dickerson	E A I Electronic Assocs Inc	69 Marquette Ave	Hayward	CA	94545
+185	Lettie	Isenhower	Conte, Christopher A Esq	70 W Main St	Beachwood	OH	44122
+186	Myra	Munns	Anker Law Office	461 Prospect Pl #316	Euless	TX	76040
+187	Stephaine	Barfield	Beutelschies & Company	47154 Whipple Ave Nw	Gardena	CA	90247
+188	Lai	Gato	Fligg, Kenneth I Jr	37 Alabama Ave	Evanston	IL	60201
+189	Stephen	Emigh	Sharp, J Daniel Esq	3777 E Richmond St #900	Akron	OH	44302
+190	Tyra	Shields	Assink, Anne H Esq	3 Fort Worth Ave	Philadelphia	PA	19106
+191	Tammara	Wardrip	Jewel My Shop Inc	4800 Black Horse Pike	Burlingame	CA	94010
+192	Cory	Gibes	Chinese Translation Resources	83649 W Belmont Ave	San Gabriel	CA	91776
+193	Danica	Bruschke	Stevens, Charles T	840 15th Ave	Waco	TX	76708
+194	Wilda	Giguere	Mclaughlin, Luther W Cpa	1747 Calle Amanecer #2	Anchorage	AK	99501
+195	Elvera	Benimadho	Tree Musketeers	99385 Charity St #840	San Jose	CA	95110
+196	Carma	Vanheusen	Springfield Div Oh Edison Co	68556 Central Hwy	San Leandro	CA	94577
+197	Malinda	Hochard	Logan Memorial Hospital	55 Riverside Ave	Indianapolis	IN	46202
+198	Natalie	Fern	Kelly, Charles G Esq	7140 University Ave	Rock Springs	WY	82901
+199	Lisha	Centini	Industrial Paper Shredders Inc	64 5th Ave #1153	Mc Lean	VA	22102
+200	Arlene	Klusman	Beck Horizon Builders	3 Secor Rd	New Orleans	LA	70112
